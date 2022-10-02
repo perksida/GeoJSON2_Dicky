@@ -1,0 +1,1 @@
+var json_GUngaran_8 = {"type":"FeatureCollection","name":"GUngaran_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[110.341742171243467,-7.190693327870936]}}]}
